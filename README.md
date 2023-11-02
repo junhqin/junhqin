@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
-🔭 Learning on:Java & Back-end
-🌱 Focusing on:Coding & Reading
-📫 How to reach me:junhqin@163.com
-🖊️ My Blog:https://knightsj.github.io/
-💬 WeChat account（微信号）：JsHarden_13
+- 🔭 Learning on:Java & Back-end
+- 🌱 Focusing on:Coding & Reading
+- 📫 How to reach me:junhqin@163.com
+- 🖊️ My Blog:https://knightsj.github.io/
+- 💬 WeChat account（微信号）：JsHarden_13
