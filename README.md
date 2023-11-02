@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 🔭 Learning on:Java & Back-end
 - 🌱 Focusing on:Coding & Reading
 - 📫 How to reach me:junhqin@163.com
-- 🖊️ My Blog:https://knightsj.github.io/
 - 💬 WeChat account（微信号）：JsHarden_13
