@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🌱 Focusing on:Coding & Reading
 - 📫 How to reach me:junhqin@163.com
 - 💬 WeChat account（微信号）：JsHarden_13
+- 📫 Personal Java Notes：https://www.notion.so/aa4508c6a0b74bb494474a600d0d2ca9?pvs=4
